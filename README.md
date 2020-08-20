@@ -2,4 +2,4 @@
 a custom countdown page 
 
 
-##Demo : https://amaduasko.github.io/countdown/.
+## Demo : https://amaduasko.github.io/countdown/.
