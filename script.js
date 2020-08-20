@@ -44,7 +44,7 @@ const updateDOM = () => {
         if (distance < 0) {
             countdownEl.hidden = true
             clearInterval(countdownActive)
-            completeElInfo = `${countdownTitle} finished on ${countdownDate}`
+            completeElInfo.textContent = `${countdownTitle} finished on ${countdownDate}`
             completeEl.hidden = false
         } else {
             //continue
